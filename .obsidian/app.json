@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "legacyEditor": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "communityPluginSortOrder": "download",
+  "livePreview": false,
+  "communityThemeSortOrder": "download",
+  "readableLineLength": true
+}

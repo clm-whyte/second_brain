@@ -1,0 +1,11 @@
+- Food recycling bin doesn't work.
+	- Feel free to add fruit and veggies to compost bin at back
+	- No coffee grounds, protein or fats
+- Rethink mutations in Dead Cells
+- Plan D&D for Kerri & Cat
+- Interesting challenge to import sheet music + tabs to Obsidian [[Sample Sheet Music]]
+- Boiled frog idea when it comes to presenting interesting things at QE meeting (it's more interesting than I will currently think)
+- Use Loom lots
+- Q4 is year in review
+- Collaberate more with other QEs
+-   Reach out to Sixuan and see if she is reachable for questions.

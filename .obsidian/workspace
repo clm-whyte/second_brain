@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "8f5032d3e1d55cc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1508a388630524e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Journal/2022-01-28.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61174b180dfbf5b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eae2c07be3b9fd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d7ae67812c8fb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "334aafcb35b657c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "note",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94b890c114229a6b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec27c1a95d1c053a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3083b5f663b238c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61983fbffaae0cd0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2d838ea67fa0915",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2022-01-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "115e99c46c7cf46d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2022-01-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ad29e4e5fc334f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82b30bf3f045cced",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2022-01-28.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1508a388630524e4",
+  "lastOpenFiles": [
+    "Journal/2022-01-28.md",
+    "Journal/2022-01-27.md",
+    "Journal/2022/01 - January/Week 5/2022-01-26.md",
+    "Factuality.md",
+    "Journal/2022/01 - January/Week 5/2022-01-25.md",
+    "Notes to Process/Notes.md",
+    "Journal/2022/01 - January/Week 5/2022-01-24.md",
+    "Journal/2022/01 - January/Week 4/2022-01-21.md",
+    "Work/Scripts & Aliases/AWS SSO.md",
+    "Media & Entertainment/Video Games.md"
+  ]
+}
