@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Cat & Kerri/Spine of the World.md",
-            "mode": "preview"
+            "file": "Journal/2022-02-02.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Cat & Kerri/Spine of the World.md",
+                "file": "Journal/2022-02-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Cat & Kerri/Spine of the World.md",
+                "file": "Journal/2022-02-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Cat & Kerri/Spine of the World.md"
+                "file": "Journal/2022-02-02.md"
               }
             }
           }
@@ -138,6 +138,8 @@
   },
   "active": "1508a388630524e4",
   "lastOpenFiles": [
+    "Journal/2022-02-02.md",
+    "Journal/2022-01-31.md",
     "D&D/Cat & Kerri/Spine of the World.md",
     "D&D/Cat & Kerri/Fyriah.md",
     "D&D/Cat & Kerri/Malevira.md",
@@ -145,8 +147,6 @@
     "D&D/Cat & Kerri/Atlas of Faerun.md",
     "Journal/2022-01-28.md",
     "Journal/2022-01-27.md",
-    "Journal/2022/01 - January/Week 5/2022-01-26.md",
-    "Factuality.md",
-    "Journal/2022/01 - January/Week 5/2022-01-25.md"
+    "Journal/2022/01 - January/Week 5/2022-01-26.md"
   ]
 }
